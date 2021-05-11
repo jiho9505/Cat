@@ -1,4 +1,4 @@
-# 2020-CatAssignment (My version)
-This doesnt care directory structure
-Only Vanila JS
-https://programmers.co.kr/
+# FE-2020-CatAssignment (My version)
+<p>This doesnt care directory structure</p>
+<p>Only Vanila JS</p>
+<p>https://programmers.co.kr/</p>
